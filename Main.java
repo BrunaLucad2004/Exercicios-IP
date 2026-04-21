@@ -28,6 +28,6 @@ public class Main{
         System.out.println("A área do circulo e sua circuferência é:");
         System.out.println(medida.areaCirculo());
         System.out.println(medida.compCirculo());
-            
+	System.out.println("Código executado com sucesso!!");            
     }    
 }
